@@ -8,7 +8,7 @@ header {
 header img{
   margin-left: 100px;
   float: left;
-  margin-left: 60px;
+  margin-left: 70px;
   margin-top: 15px;
 }
 li{
@@ -18,7 +18,29 @@ li{
 ul{
   margin-left: 250px;
 }
-.centered img{
-  margin-left: auto;
-  margin-right: auto;
+#section1 img {
+  margin-left: 70px;
+}
+#section2 {
+  margin-left: 70px;
+}
+#section2 img{
+  padding-right: 26px;
+  margin-top: 20px;
+}
+#scrollable{
+  height: 400px;
+  width: 480px;
+  overflow: auto;
+  font-style: italic;
+  float: right;
+  display: flex;
+}
+#imgText img{
+  display: inline;
+  margin-left: 70px;
+  margin-top: 15px;
+}
+body{
+  margin: 110px;
 }
