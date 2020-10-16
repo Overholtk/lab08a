@@ -1,0 +1,24 @@
+header {
+  background-color: rgb(58, 57, 57);
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightgray;
+  width: 100%;
+}
+header img{
+  margin-left: 100px;
+  float: left;
+  margin-left: 60px;
+  margin-top: 15px;
+}
+li{
+  display: inline-block;
+  padding: 40px;
+}
+ul{
+  margin-left: 250px;
+}
+.centered img{
+  margin-left: auto;
+  margin-right: auto;
+}
